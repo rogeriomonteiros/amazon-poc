@@ -1,0 +1,14 @@
+{
+  "name": "amazon-poc",
+  "version": "1.0.0",
+  "description": "Teste cypress site amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "rogerio",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
